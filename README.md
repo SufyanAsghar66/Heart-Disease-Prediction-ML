@@ -22,4 +22,4 @@ Jupyter Notebook for development and visualization<br>
 Usage:<br>
 Clone the repository, install dependencies, and run the Jupyter notebook to train and evaluate models.<br>
 
-Author: Abu Sufyan<br>
+Author: Sufyan Asghar<br>
